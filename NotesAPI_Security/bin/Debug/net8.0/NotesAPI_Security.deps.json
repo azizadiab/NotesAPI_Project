@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NotesAPI_Security/1.0.0": {
+        "runtime": {
+          "NotesAPI_Security.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotesAPI_Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

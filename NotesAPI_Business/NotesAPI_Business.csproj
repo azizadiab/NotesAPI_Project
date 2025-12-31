@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotesAPI_Data\NotesAPI_Data.csproj" />
+    <ProjectReference Include="..\NotesAPI_Security\NotesAPI_Security.csproj" />
+  </ItemGroup>
+
+</Project>

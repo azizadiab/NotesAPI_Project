@@ -1,0 +1,12 @@
+G:\NotesAPI\NotesAPI_Security\bin\Debug\net8.0\NotesAPI_Security.deps.json
+G:\NotesAPI\NotesAPI_Security\bin\Debug\net8.0\NotesAPI_Security.dll
+G:\NotesAPI\NotesAPI_Security\bin\Debug\net8.0\NotesAPI_Security.pdb
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.GeneratedMSBuildEditorConfig.editorconfig
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.AssemblyInfoInputs.cache
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.AssemblyInfo.cs
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.csproj.CoreCompileInputs.cache
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.sourcelink.json
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.dll
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\refint\NotesAPI_Security.dll
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\NotesAPI_Security.pdb
+G:\NotesAPI\NotesAPI_Security\obj\Debug\net8.0\ref\NotesAPI_Security.dll

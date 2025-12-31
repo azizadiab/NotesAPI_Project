@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\NotesAPI\\NotesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED222DE-2353-45C3-8E4C-88DB982C76B2}|..\\NotesAPI_Business\\NotesAPI_Business.csproj|g:\\notesapi\\notesapi_business\\clsnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F198B3A-9E5F-407A-B451-F6E8B418D2C2}|..\\NotesAPI_Data\\NotesAPI_Data.csproj|g:\\notesapi\\notesapi_data\\clsnotedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|g:\\notesapi\\notesapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079672C-2B80-46C7-91BE-848023489992}|NotesAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F198B3A-9E5F-407A-B451-F6E8B418D2C2}|..\\NotesAPI_Data\\NotesAPI_Data.csproj|g:\\notesapi\\notesapi_data\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED222DE-2353-45C3-8E4C-88DB982C76B2}|..\\NotesAPI_Business\\NotesAPI_Business.csproj|g:\\notesapi\\notesapi_business\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsNote.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI_Business\\clsNote.cs",
+              "RelativeDocumentMoniker": "..\\NotesAPI_Business\\clsNote.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI_Business\\clsNote.cs",
+              "RelativeToolTip": "..\\NotesAPI_Business\\clsNote.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:41:11.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "GlobalExceptionMiddleware.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:51:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:14:25.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T07:18:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T14:00:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:47:10.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:25:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsNoteData.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI_Data\\clsNoteData.cs",
+              "RelativeDocumentMoniker": "..\\NotesAPI_Data\\clsNoteData.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI_Data\\clsNoteData.cs",
+              "RelativeToolTip": "..\\NotesAPI_Data\\clsNoteData.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAPQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:08:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAiwHMBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:58:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\NotesAPI_Business\\clsUser.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI_Business\\clsUser.cs",
+              "RelativeToolTip": "..\\NotesAPI_Business\\clsUser.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwGQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:13:54.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "G:\\NotesAPI\\NotesAPI_Data\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\NotesAPI_Data\\clsUserData.cs",
+              "ToolTip": "G:\\NotesAPI\\NotesAPI_Data\\clsUserData.cs",
+              "RelativeToolTip": "..\\NotesAPI_Data\\clsUserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:13:17.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

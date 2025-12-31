@@ -1,0 +1,16 @@
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.csproj.AssemblyReference.cache
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.AssemblyInfoInputs.cache
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.AssemblyInfo.cs
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.csproj.CoreCompileInputs.cache
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.sourcelink.json
+G:\NotesAPI\NotesAPI_Data\bin\Debug\net8.0\NotesAPI_Data.deps.json
+G:\NotesAPI\NotesAPI_Data\bin\Debug\net8.0\NotesAPI_Data.dll
+G:\NotesAPI\NotesAPI_Data\bin\Debug\net8.0\NotesAPI_Data.pdb
+G:\NotesAPI\NotesAPI_Data\bin\Debug\net8.0\NotesAPI_Security.dll
+G:\NotesAPI\NotesAPI_Data\bin\Debug\net8.0\NotesAPI_Security.pdb
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI.095B48F6.Up2Date
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.dll
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\refint\NotesAPI_Data.dll
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\NotesAPI_Data.pdb
+G:\NotesAPI\NotesAPI_Data\obj\Debug\net8.0\ref\NotesAPI_Data.dll
