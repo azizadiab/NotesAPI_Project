@@ -1,3 +1,6 @@
+![.NET CI](https://github.com/azizadiab/NotesAPI_Project/actions/workflows/ci.yml/badge.svg)
+
+
 # Notes API 📝
 
 A clean and secure **ASP.NET Core Web API** for managing notes with authentication, authorization, pagination, and search.
