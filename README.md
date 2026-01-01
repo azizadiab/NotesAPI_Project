@@ -48,7 +48,9 @@ All endpoints return a unified response format:
   "message": "Operation completed successfully",
   "data": {}
 }
+
 Errors are handled globally using Global Exception Middleware.
+
 📚 Main Endpoints (Examples)
 
 Notes
